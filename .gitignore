@@ -131,3 +131,6 @@ dmypy.json
 # VSCode
 .vscode
 .vscode/
+
+*/pg_admin_data/
+*/pg_db_data/
